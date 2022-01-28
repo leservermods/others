@@ -1,2 +1,2 @@
-# others
-Repository for other servers managed by thefirethirteen.
+# minecraft-servers-administration
+Repository for some servers managed by thefirethirteen.
